@@ -506,7 +506,7 @@ textarea.input {
 
 .speaker .speaker-body {
   position: absolute;
-  bottom: 60px;
+  bottom: 0px;
   left: 0;
   right: 0;
 }
@@ -781,10 +781,10 @@ textarea.input {
 
 .sponsor {
   display: block;
-  opacity: 0.5;
+  /*opacity: 0.5;*/
   margin-bottom: 30px;
-  -webkit-transition: 0.3s opacity;
-  transition: 0.3s opacity;
+  /*-webkit-transition: 0.3s opacity;
+  transition: 0.3s opacity;*/
 }
 
 .sponsor:hover {
