@@ -982,6 +982,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   background: #f3f4f3;
 }
 
+#action {
+    background: #f3f4f3;
+}
+
 #schedule-tab {
   position: relative;
 }
